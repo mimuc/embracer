@@ -2,7 +2,7 @@
 
 ![](./images/teaser.png)
 
-Figure 1:We present Embracer, a 3 DoF wearable encountered-type haptic controller. It has 3 actuated axes of motion to allow the end effector to freely target arbitrary positions on the user’s palm. Through lateral actuation, it can create stretching sensations in the user’s hand. It can also sense manipulation along the same 3 DoF and grasping of the end effector. Embracer
+Figure 1: We present Embracer, a 3 DoF wearable encountered-type haptic controller. It has 3 actuated axes of motion to allow the end effector to freely target arbitrary positions on the user’s palm. Through lateral actuation, it can create stretching sensations in the user’s hand. It can also sense manipulation along the same 3 DoF and grasping of the end effector. Embracer
 consists of: a) the bangle with the microcontroller and the power regulator, b) the rail with a tracker mount and Velcro straps, c) the carriage with the three servo motors, d) the housing of the pivot axis, e) the gear for the linear axis and f) the lever with the end effector.
 
 **Embracer**: A Wearable Encountered-Type Haptic Controller for 3 DoF Input and Feedback (https://dl.acm.org/doi/10.1145/3675095.3676626)<br/>
